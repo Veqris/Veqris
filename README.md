@@ -18,13 +18,16 @@ Software engineer specializing in high-performance FiveM resource architecture, 
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Veqris&show_icons=true&theme=dark&hide_border=true&bg_color=090a0f&title_color=ffffff&icon_color=5865f2&text_color=949ba4" alt="Veqris's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veqris&layout=compact&theme=dark&hide_border=true&bg_color=090a0f&title_color=ffffff&text_color=949ba4" alt="Top Languages" height="150" />
-</div>
+### GitHub Statistics
+
+![Veqris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Veqris&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Veqris&layout=compact&theme=dark)
+
+---
 
 <p align="center">
   <a href="https://julesfx.tebex.io/">Tebex Store</a> &nbsp;•&nbsp; 
   <a href="https://discord.gg/julesfx">Discord Community</a> &nbsp;•&nbsp; 
-  <a href="https://youtube.com/@julesfx">YouTube</a>
+  <a href="https://www.youtube.com/@JulesFXCode">YouTube</a>
 </p>
