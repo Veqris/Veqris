@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Veqris</h1>
-  <p><strong>Software Engineer & Systems Architect</strong> · Founder @ JulesFX</p>
+  <p><strong>Software Developer & Systems Architect</strong> · Founder @ JulesFX</p>
 </div>
 
 ### Overview
