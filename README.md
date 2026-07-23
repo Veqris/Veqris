@@ -4,7 +4,7 @@
 </div>
 
 ### Overview
-Software engineer specializing in high-performance FiveM resource architecture, modern web applications, and low-latency system integration. Focused on clean code design, reactive user interfaces, and robust multi-framework bridges.
+Software developer specializing in high-performance FiveM resource architecture, modern web applications, and low-latency system integration. Focused on clean code design, reactive user interfaces, and robust multi-framework bridges.
 
 ### Tech Stack & Core Competencies
 - **Languages**: Lua, TypeScript, JavaScript, SQL, HTML5, CSS3
