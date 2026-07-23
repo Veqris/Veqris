@@ -31,3 +31,5 @@ Software developer specializing in high-performance FiveM resource architecture,
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
+
+<img width="1672" height="940" alt="VJSFX" src="https://github.com/user-attachments/assets/9024e934-ab33-4a92-85d8-1f562f50557c" />
